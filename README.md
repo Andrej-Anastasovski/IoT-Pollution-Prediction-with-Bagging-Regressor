@@ -11,8 +11,6 @@ iot_bagging_regressor_project/
 │   └── hour.xls               # Hourly pollution and weather data
 ├── notebooks/
 │   └── main_analysis.ipynb    # Main Jupyter notebook with full analysis
-├── src/
-│   └── utils.py               # (Optional) helper functions
 ├── results/
 │   ├── plots/                 # Prediction vs actual plots for each target
 │   ├── model_metrics.txt      # Saved evaluation metrics (R^2, MAE)
