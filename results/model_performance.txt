@@ -1,0 +1,2 @@
+R^2 Score: 0.8125232071156168
+Mean Absolute Error (MAE): 11.905503046127066
