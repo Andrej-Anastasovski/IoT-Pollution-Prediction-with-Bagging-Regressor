@@ -37,13 +37,13 @@ iot_bagging_regressor_project/
 * Hyperparameter tuning using `GridSearchCV` with cross-validation
 * Best model selected and evaluated
 
-1. **Evaluation** :
+2. **Evaluation** :
 
 * `R^2 Score`: ~0.81
 * `MAE`: ~12.11
 * Plots generated for actual vs predicted values
 
-1. **Outputs** :
+3. **Outputs** :
 
 * Model performance metrics
 * Prediction plots
